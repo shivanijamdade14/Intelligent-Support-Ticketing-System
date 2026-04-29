@@ -59,14 +59,17 @@ Shows the step-by-step process of taking a ticket, posting comments, and resolvi
 ### Ticket Filtering (Technician & Admin Side)
 https://github.com/user-attachments/assets/88ce540b-d6fd-4121-a2ce-9c689fe8d211
 ### Escalation
-![Escalation Case](screenshots/Escalation-Case.jpg)
+<img width="1726" height="848" alt="image" src="https://github.com/user-attachments/assets/473be11d-139d-4b0e-89e8-7cfdea1255ad" />
+
 
 Illustrates a ticket escalation case where the user, previous technician, and current technician interact through comments, including the use of internal notes.
 ### Ticket Activity Reporting
-![Ticket Activity](screenshots/Ticket-History.jpg)
+<img width="1726" height="838" alt="image" src="https://github.com/user-attachments/assets/5e6426ca-fd6b-4401-90ad-6d2c9093558c" />
+
 
 Displays the detailed ticket history available to Technicians and Admins, with the option to export records as a PDF for reporting purposes.
 ### Dashboard
-![Dashboard](screenshots/Performance-Overview.jpg)
+<img width="1896" height="837" alt="image" src="https://github.com/user-attachments/assets/14b52c05-aefb-4f41-bb00-cea37caeec07" />
+
 
 Provides an overview of key ticketing metrics, including workload distribution and resolution performance.
