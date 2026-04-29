@@ -7,7 +7,8 @@ A fully functional internal ticketing system built using **Microsoft Power Apps 
 
 The application emphasizes **practical business use cases and enhanced user experience**, including advanced filtering and a **chat-style communication interface** for ticket interactions.
 
-![System Diagram](screenshots/hts-systemdiagram.jpg)
+<img width="1368" height="542" alt="image" src="https://github.com/user-attachments/assets/3f6a9a3c-2299-42ae-b975-c0e337414b0d" />
+
 
 ## Technologies
 - Microsoft Power Apps (Canvas Apps)
